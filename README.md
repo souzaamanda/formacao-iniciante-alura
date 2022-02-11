@@ -12,6 +12,9 @@ Curso de iniciação a programação focado em aprender lógica de programação
 <img src="https://user-images.githubusercontent.com/80546584/153610845-cebb7223-6002-469f-99a3-30bb17aabc5d.png" width="500px" />
 </div>
 
+### *Site Barbearia Alura*
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/80546584/153612338-e87646e9-9a3d-4da6-bbe1-7c191712d9bc.gif)
+
 ##
 ### *Certificado*
 <div align="center">
